@@ -1,0 +1,8 @@
+site_name: Liboni_Francesca
+
+nav:
+
+    - 'MD': 'index.md'
+    - 'Test': 'test.txt'
+theme:
+    name: readthedocs
